@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Hello, World!</title>
+  git remote add origin https://github.com/Ephrem-Alemu/Hello.git
+git branch -M main
+git push -u origin main
+</head>
+<body>
+  <h1>
+    Hello, World!
+    <img src="/storage/emulated/0/DCIM/Camera/epho.jpg" width="500px">
+  </h1>
+</body>
+</html>
